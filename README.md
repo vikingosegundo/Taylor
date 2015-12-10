@@ -38,8 +38,8 @@ The easiest way to try out Taylor is using a playground.
 For this, you need to have Carthage installed in your computer, is what it is used for fetching the dependencies.
 
 ```sh
-$ git clone https://github.com:izqui/Taylor.git -b playground
-$ cd taylor
+$ git clone https://github.com/izqui/Taylor.git -b playground
+$ cd Taylor
 $ sh setup.sh
 ```
 
