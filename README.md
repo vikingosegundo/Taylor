@@ -39,7 +39,7 @@ For this, you need to have Carthage installed in your computer, is what it is us
 
 ```sh
 $ git clone https://github.com/izqui/Taylor.git -b playground
-$ cd taylor
+$ cd Taylor
 $ sh setup.sh
 ```
 
